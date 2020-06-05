@@ -19,7 +19,7 @@ cycler==0.10.0
 daphne==2.3.0
 decorator==4.4.1
 dj-database-url==0.5.0
-Django==2.2.4
+Django==2.2.13
 django-cors-headers==3.1.0
 djangorestframework==3.10.2
 djangorestframework-simplejwt==4.3.0
