@@ -14,7 +14,7 @@ channels-redis==2.4.0
 chardet==3.0.4
 colorama==0.4.1
 constantly==15.1.0
-cryptography==2.7
+cryptography==3.2
 cycler==0.10.0
 daphne==2.3.0
 decorator==4.4.1
